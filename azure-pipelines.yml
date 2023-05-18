@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: 'b8298697-03ae-4e00-8315-59a5668b89db'
 
   # Web app name
-  webAppName: 'as53749.aaa'
+  webAppName: 'app2epam2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
